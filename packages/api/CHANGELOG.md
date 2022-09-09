@@ -1,5 +1,19 @@
 # @verdaccio/api
 
+## 6.0.0-6-next.31
+
+### Patch Changes
+
+- 43f32687: fix: abbreviated headers handle quality values
+- Updated dependencies [43f32687]
+  - @verdaccio/core@6.0.0-6-next.48
+  - @verdaccio/store@6.0.0-6-next.28
+  - @verdaccio/auth@6.0.0-6-next.27
+  - @verdaccio/config@6.0.0-6-next.48
+  - @verdaccio/logger@6.0.0-6-next.16
+  - @verdaccio/middleware@6.0.0-6-next.27
+  - @verdaccio/utils@6.0.0-6-next.16
+
 ## 6.0.0-6-next.30
 
 ### Patch Changes

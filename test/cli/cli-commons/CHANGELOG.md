@@ -1,5 +1,15 @@
 # @verdaccio/test-cli-commons
 
+## 1.0.1-6-next.6
+
+### Patch Changes
+
+- Updated dependencies [43f32687]
+  - @verdaccio/core@6.0.0-6-next.48
+  - @verdaccio/config@6.0.0-6-next.48
+  - @verdaccio/test-helper@1.1.0-6-next.4
+  - verdaccio@6.0.0-6-next.48
+
 ## 1.0.1-6-next.5
 
 ### Patch Changes

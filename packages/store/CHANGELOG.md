@@ -1,5 +1,22 @@
 # @verdaccio/store
 
+## 6.0.0-6-next.28
+
+### Patch Changes
+
+- 43f32687: fix: abbreviated headers handle quality values
+- Updated dependencies [43f32687]
+  - @verdaccio/core@6.0.0-6-next.48
+  - @verdaccio/config@6.0.0-6-next.48
+  - @verdaccio/tarball@11.0.0-6-next.17
+  - @verdaccio/url@11.0.0-6-next.14
+  - @verdaccio/hooks@6.0.0-6-next.18
+  - @verdaccio/loaders@6.0.0-6-next.17
+  - @verdaccio/logger@6.0.0-6-next.16
+  - @verdaccio/local-storage@11.0.0-6-next.18
+  - @verdaccio/proxy@6.0.0-6-next.26
+  - @verdaccio/utils@6.0.0-6-next.16
+
 ## 6.0.0-6-next.27
 
 ### Patch Changes

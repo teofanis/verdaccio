@@ -1,5 +1,11 @@
 # @verdaccio/e2e-cli-yarn2
 
+## 1.0.1-6-next.6
+
+### Patch Changes
+
+- @verdaccio/test-cli-commons@1.0.1-6-next.6
+
 ## 1.0.1-6-next.5
 
 ### Patch Changes
